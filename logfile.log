@@ -1,0 +1,69 @@
+2021-05-20 20:53:09,315 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:53:28,855 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:53:33,477 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:53:33,477 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:53:41,113 :INFO : test_ecommerce :Error Occurred
+2021-05-20 20:53:41,113 :INFO : test_ecommerce :Error Occurred
+2021-05-20 20:53:45,884 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:53:45,884 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:53:50,505 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:53:50,505 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:53:50,505 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:54:10,018 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:54:10,018 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:54:10,018 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:57:32,681 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:57:50,253 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 20:57:55,020 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:57:59,652 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:57:59,652 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:58:07,287 :INFO : test_ecommerce :Order failed
+2021-05-20 20:58:07,287 :INFO : test_ecommerce :Order failed
+2021-05-20 20:58:12,045 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:58:12,045 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:58:16,805 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:58:16,805 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:58:16,805 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 20:58:34,338 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 20:58:34,338 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 20:58:34,338 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 20:58:39,091 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:58:39,091 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 20:58:39,091 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:07:07,053 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:07:24,627 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:07:32,469 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:07:37,092 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:07:37,092 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:07:44,746 :INFO : test_ecommerce :Order failed
+2021-05-20 21:07:44,746 :INFO : test_ecommerce :Order failed
+2021-05-20 21:07:52,604 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:07:52,604 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:07:57,326 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:07:57,326 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:07:57,326 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:08:15,068 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:08:15,068 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:08:15,068 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:08:22,905 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:08:22,905 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:08:22,905 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:13:42,211 :INFO : test_ecommerce :Order failed
+2021-05-20 21:14:31,843 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:14:48,876 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:14:56,460 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:15:01,138 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:15:01,138 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:15:08,616 :INFO : test_ecommerce :Order failed
+2021-05-20 21:15:08,616 :INFO : test_ecommerce :Order failed
+2021-05-20 21:15:16,168 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:15:16,168 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:15:20,992 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:15:20,992 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:15:20,992 :INFO : test_ecommerce :Logged In Successfully
+2021-05-20 21:15:37,954 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:15:37,954 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:15:37,954 :INFO : test_ecommerce :Product ordered successfully
+2021-05-20 21:15:45,507 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:15:45,507 :INFO : test_ecommerce :Logged Out Successfully
+2021-05-20 21:15:45,507 :INFO : test_ecommerce :Logged Out Successfully
